@@ -11,7 +11,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 const blogPosts = [
   {
     id: 1,
-    title: "[OUTLINE] Industrial Wastewater Treatment Automation Systems",
+    title: "[OUTLINE] WhatsApp and Website Chatbot Integration for Customer Support",
     excerpt: "Blog Outline",
     imageUrl: "/outline.png",
     date: "Apr 25",
@@ -21,7 +21,7 @@ const blogPosts = [
   },
   {
     id: 2,
-    title: "[OUTLINE] Energy Efficiency in Wastewater Treatment Plants",
+    title: "[OUTLINE] Lead Generation Chatbot for B2B SaaS Companies",
     excerpt: "Blog Outline",
     imageUrl: "/outline.png",
     date: "May 2",
@@ -31,25 +31,26 @@ const blogPosts = [
   },
   {
     id: 3,
-    title: "[OUTLINE] Predictive Maintenance for Wastewater Treatment Equipment",
+    title: "[OUTLINE] AI Chatbot to Reduce Customer Support Tickets",
     excerpt: "Blog Outline",
     imageUrl: "/outline.png",
-    date: "May 9",
+    date: "May 5",
     readTime: "N/A",
     url: "/blog-three",
     status: "pending",
   },
   {
     id: 4,
-    title: "[OUTLINE] Digital Twin for Wastewater Treatment Plant Operations",
+    title: "[OUTLINE] Shopify AI Chatbot (No-Code Integration)",
     excerpt: "Blog Outline",
     imageUrl: "/outline.png",
-    date: "May 12",
+    date: "May 9",
     readTime: "N/A",
     url: "/blog-four",
     status: "pending",
   },
 ]
+
 
 
 // Animation variants

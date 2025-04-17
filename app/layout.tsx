@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 export const metadata = {
-  title: 'SEO Dashboard for Startups | Bluewater Lab',
+  title: 'SEO Dashboard for Aerochat',
   description: 'Monitor, measure, and grow your startup’s SEO performance with Bluewater Lab’s all-in-one SEO dashboard built for modern growth teams.',
 };
 const geistSans = Geist({

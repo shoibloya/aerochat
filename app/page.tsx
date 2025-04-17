@@ -15,11 +15,11 @@ import { BlogSection } from "@/components/blog-section"
 export default function Dashboard() {
   // Example KPI data
   const kpiData = [
-    { title: "DR", value: 3, icon: <Activity className="h-4 w-4" /> },
-    { title: "UR", value: 0.4, icon: <Users className="h-4 w-4" /> },
-    { title: "Backlinks", value: 1, icon: <Link2 className="h-4 w-4" /> },
-    { title: "Ref. Domains", value: 1, icon: <Share2 className="h-4 w-4" /> },
-    { title: "Organic Traffic", value: 0, icon: <Search className="h-4 w-4" /> },
+    { title: "DR", value: 17, icon: <Activity className="h-4 w-4" /> },
+    { title: "UR", value: 19, icon: <Users className="h-4 w-4" /> },
+    { title: "Backlinks", value: 115, icon: <Link2 className="h-4 w-4" /> },
+    { title: "Ref. Domains", value: 54, icon: <Share2 className="h-4 w-4" /> },
+    { title: "Organic Traffic", value: 1, icon: <Search className="h-4 w-4" /> },
   ]
 
   // Hard-coded keywords data
@@ -57,7 +57,7 @@ export default function Dashboard() {
             animate={{ opacity: 1, y: 0 }}
             className="bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-3xl font-bold tracking-tight text-transparent md:text-4xl"
           >
-            Bluewater Dashboard
+            Aerochat Dashboard
           </motion.h1>
           <motion.p
             initial={{ opacity: 0, y: -20 }}
